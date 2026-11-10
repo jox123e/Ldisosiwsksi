@@ -1,0 +1,13 @@
+{
+  "vh": [
+    "version.ffmax.purplevioleto.com",
+    "version.ffmax.pencilorange.com",
+    "version.ggwhitehawk.com",
+    "version.common.redflamenco.com"
+  ],
+  "s_url": "https://loginbp.ppmainecoonabc.com/",
+  "custom_payload": {
+    "status": "active",
+    "mode": "client_override"
+  }
+}
