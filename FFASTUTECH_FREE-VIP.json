@@ -1,0 +1,16 @@
+{
+  "config_info": {
+    "name": "FFASTUTECH_FREE_VIP",
+    "version": "2026.0",
+    "target": "client_side_override"
+  },
+  "ui_settings": {
+    "floating_menu": true,
+    "theme": "dark",
+    "bypass_check": false
+  },
+  "assets_map": {
+    "skin_override": true,
+    "effect_path": "assets/local/patch"
+  }
+}
