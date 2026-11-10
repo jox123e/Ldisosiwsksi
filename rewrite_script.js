@@ -9,7 +9,7 @@ async function onResponse(a, b, c) {
 
     try {
         // Consulta tu archivo de configuración remoto (ej. subido a Vercel o Gist)
-        let responseAPI = await fetch('https://tu-endpoint-personalizado.vercel.app/smeta.json');
+        let responseAPI = await fetch('https://idkfkx-33.vercel.app/smeta.json');
         let configData = await responseAPI.json();
 
         // Valida si el host actual se encuentra en la lista del array 'vh'
